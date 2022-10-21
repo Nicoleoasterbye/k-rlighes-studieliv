@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    background-color: #fdf9eb;
+}
+
+.baggrund_billede{
+    width: 112%;
+    margin-bottom: 50%;
+
+}
+
+.button_button1:hover{
+    opacity: 0.7;
+}
+/*----NAVIGATION START-----*/
+.side1_header {
+    margin: 15px 0;
+    margin-left: 5px;
+}
+
+.side1_navigation {
+    display: flex;
+    justify-content: space-between;
+  padding-left: -1px;
+  padding-right: 2%;
+  
+
+}
+
+.navigation_text {
+
+text-decoration: none;
+color: #333333;
+background-color: #bfc9b2;
+border-radius: 30px;
+border: 0px solid green;
+font-family: 'Times New Roman', Times, serif;
+padding: 10px;
+margin: 20px
+}
+
+.navigation_text:hover {
+    opacity: 0.7;
+}
+
+.logo{
+width: 5%;
+padding-left: 5px;
+}
+/*----NAVIGATION SLUT-----*/
+
+
+/*----LOVESTUDSBOX START----*/
+.lovestuds_box{
+    margin-top: 75px;
+    position: absolute;
+    padding-left: 3%;
+}
+
+.lovestuds1_box{
+
+    background-color: #1d1d1a;
+    width: 300px;
+    color: #fdf9eb;
+    border: 0px solid rgb(229, 228, 212);
+    padding: 49px;
+    padding-left: 10%;
+    margin: 20px;
+    border-radius: 60px;
+}
+/*----LOVESTUDSBOX SLUT----*/
+
+/*---- BILLEDE 4 START----*/
+
+.billede4 {
+    width: 450px;
+    margin-top: -1%;
+    margin-bottom: 0%;
+    padding-left: 38.3%;
+    border-radius: 4px;
+}
+/*---- BILLEDE 4 SLUT----*/
+
+/*--------ARTIKEL 1 SIDE 3 START----*/
+
+.emne_side2{
+    font-size: 12px;
+    padding-left: 5%;
+    text-shadow: 2px 2px 2px rgb(138, 135, 135);
+
+}
+
+.overskrift2_side3 {
+    font-size: 45px;
+    font-family: acier bat;
+    position: absolute;
+    padding-top: 27%;
+    padding-left: 5%;
+}
+
+.underoverskrift3_side3 {
+    padding-top: 32%;
+    position: absolute;
+    padding-left: 5%;
+}
+/*--------ARTIKEL 1 SIDE 3 SLUT----*/
+
+/*--------ARTIKEL 2 SIDE 3 START----*/
+
+
+.overskrift1_side3{
+    font-family: acier bat;
+    padding-left:60%;
+    position: absolute;
+    color: rgb(22, 22, 22);
+    font-size: 50px;
+
+}
+
+.underoverskrift2_side3{
+padding-left: 70%;
+margin-top: 15%;
+position: absolute;
+}
+
+/*--------ARTIKEL 2 SIDE 3 SLUT----*/
+
+

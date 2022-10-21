@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    width: 100%;
+    height: auto;
+    background-color: #fdf9eb;
+}
+/*----baggrundsbillede start-----*/
+.body{
+    background-image: url(baggrund1.png);
+}
+/*----baggrundsbillede slut-----*/
+
+/*----NAVIGATION START-----*/
+.side1_header {
+    margin: 15px 0;
+    margin-left: 5px;
+}
+
+.side1_navigation {
+    display: flex;
+    justify-content: space-between;
+  padding-left: -1px;
+  padding-right: 2%;
+  
+
+}
+
+.navigation_text {
+
+text-decoration: none;
+color: #333333;
+background-color: #bfc9b2;
+border-radius: 30px;
+border: 0px solid green;
+font-family: 'Times New Roman', Times, serif;
+padding: 10px;
+margin: 20px
+}
+
+.navigation_text:hover {
+    opacity: 0.7;
+}
+
+.logo{
+
+width: 5%;
+padding-left: 5px;
+}
+/*----NAVIGATION SLUT-----*/
+
+/*----OVER OG UNDER SKRIFTER START-----*/
+.emne_side2 {
+    font-size: 12px;
+    padding-left: 5%;
+    text-shadow: 2px 2px 2px rgb(138, 135, 135);
+}
+
+.overskrift1_side2{
+    font-size: 50px;
+    font-family: acier bat;
+    padding-left: 32%;
+    position: absolute;
+    padding-top: 2%;
+
+}
+
+.underoverskrift1_side2{
+    font-size: 12pt;
+    font-family: avenir light;
+    padding-left: 32%;
+    position: absolute;
+    padding-top: 19%;
+}
+
+/*----OVER OG UNDER SKRIFTER SLUT-----*/
+
+/*----LOVESTUDSBOX START----*/
+.lovestuds_box{
+    margin-left: 68%;
+    position: absolute;
+    margin-top: 10%;
+
+}
+
+.button_button1{
+font-family: lemon milk;
+border-radius:50px;
+border-color: antiquewhite;
+background-color: #c0b694;
+width: 300px;
+border:1px solid rgb(229, 228, 212);
+padding: 20px;
+margin-top: 4%;
+}
+.button_button2{
+    font-family: lemon milk;
+    border-radius: 50px;
+    border-color: antiquewhite;
+    background-color: #acbb9a;
+    width: 300px;
+    border: 1px solid rgb(229, 228, 212);
+    padding: 20px;
+    margin-top: 4%;
+    }
+
+.button_button3{
+    font-family: lemon milk;
+    border-radius: 50px;
+    border-color: antiquewhite;
+    background-color: #a7d6dc;
+    width: 300px;
+    border: 1px solid rgb(229, 228, 212);
+    padding: 20px;
+    margin-top: 4%;
+}
+
+.button_button1:hover{
+    opacity: 0.7;
+}
+.button_button2:hover{
+    opacity: 0.7;
+}
+.button_button3:hover{
+    opacity: 0.7;
+}
+
+
+.lovestuds1_box{
+    font-family: avenir light;
+    font-size: 12pt;
+    background-color: rgb(201, 197, 183);
+    width: 300px;
+    border: 0px solid rgb(229, 228, 212);
+    padding: 50px;
+    margin: 20px;
+    border-radius: 60px;
+    font-size: 14pt;
+}
+
+.lovestuds2_box{
+    font-family: acier bat;
+    margin-left: 21%;
+    position: absolute;
+    margin-top: 8%;
+    font-size: 20pt;
+    
+
+
+}
+
+/*----LOVESTUDSBOX SLUT----*/
+
+.billede3 {
+    width: 390px;
+    padding-left: 4%;
+    float: left;
+    border-radius: 15px;
+    margin-top: 2%;
+
+}
+
+.billede4 {
+    width: 300px;
+    margin-bottom: 100px;
+    position: absolute;
+    padding-left: 43%;
+    margin-top: -14px;
+
+
+
+}
+
+.button {
+    border: none;
+    border-radius: 50px;
+    color: rgb(39, 42, 44);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+

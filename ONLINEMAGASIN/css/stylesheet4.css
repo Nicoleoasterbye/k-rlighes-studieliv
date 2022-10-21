@@ -1,0 +1,164 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    background-color: #fdf9eb;
+}
+
+.baggrund_billede{
+    width: 112%;
+    margin-bottom: 50%;
+
+}
+/*----NAVIGATION START-----*/
+.side1_header {
+    margin: 15px 0;
+    margin-left: 5px;
+}
+
+.side1_navigation {
+    display: flex;
+    justify-content: space-between;
+  padding-left: -1px;
+  padding-right: 2%;
+}
+
+.navigation_text {
+text-decoration: none;
+color: #333333;
+background-color: #bfc9b2;
+border-radius: 30px;
+border: 0px solid green;
+font-family: 'Times New Roman', Times, serif;
+padding: 10px;
+margin: 20px
+}
+
+.navigation_text:hover {
+    opacity: 0.7;
+}
+
+.logo{
+width: 5%;
+padding-left: 5px;
+}
+/*----NAVIGATION SLUT-----*/
+
+
+/*--------ARTIKEL 1 START-----*/
+.emne_side4 {
+    font-size: 12px;
+    padding-left: 5%;
+    text-shadow: 2px 2px 2px rgb(138, 135, 135);
+}
+
+.overskrift1_side4{
+    font-size: 40pt;
+    font-family: acier bat;
+    position: absolute;
+    padding-left: 3%;
+    padding-top: 1%;
+}
+
+.overskrift2_side4 {
+    position: absolute;
+    font-size: 24pt;
+    font-family: acier bat;
+    padding-left: 38%;
+    margin-top: 109px;
+}
+
+.underoverskrift2_side4{
+    position: absolute;
+    padding-left: 38%;
+    padding-top: 16%;
+}
+
+/*--------ARTIKEL 1 SLUT-----*/
+
+/*--------ARTIKEL 2 START-----*/
+.overskrift3_side4 {
+    font-family: acier bat;
+    padding-left: 38%;
+    font-size: 24pt;
+    margin-top: 400px;
+    position: absolute;
+  }
+
+  .underoverskrift3_side4{
+    position: absolute;
+    padding-left: 38%;
+    padding-top: 35%;
+  }
+
+  /*--------ARTIKEL 2 SLUT-----*/
+
+/*--------ARTIKEL 3 MED BOX START-----*/
+
+
+.comment_box{
+    padding-left: 70%;
+    padding-top: 16%;
+}
+
+.overskrift4_side4{
+    font-size: 24pt;
+    font-family: acier bat;
+    position: absolute;
+    padding-left: 70%;
+    padding-top: 7.6%;
+}
+
+.button_button2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: lemon milk;
+    font-size: 11pt;
+    border-width: 10px;
+    background-color: #a8dc82;
+    border-color: #a8dc82;
+    border-radius: 16px;
+    line-height: 1.9;
+
+}
+/*--------ARTIKEL 3 MED BOX SLUT-----*/
+
+
+
+/*--------ARTIKEL 4 START-----*/
+
+.overskrift5_side4{
+    font-size: 24pt;
+    font-family: acier bat;
+    padding-left: 70%;
+    padding-top: 30%;
+    position: absolute;
+}
+
+.underoverskrift1_side4{
+    position: absolute;
+    padding-left: 70%;
+    padding-top: 39%; 
+}
+/*--------ARTIKEL 4 SLUT-----*/
+
+
+
+
+/*--------billede 4 start-----*/
+.billede4 {
+    width: 500px;
+    border-radius: 15px;
+    position: absolute;
+    margin-top:75px;
+    padding-left: 2%;
+
+}
+
+/*--------billede 4 slut-----*/
+
+

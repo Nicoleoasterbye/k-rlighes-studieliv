@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    background-color: #fdf9eb;
+}
+
+.baggrunds_billede{
+    width: 112%;
+    margin-bottom: 50%;
+
+}
+/*----NAVIGATION START-----*/
+.side1_header {
+    margin: 15px 0;
+    margin-left: 5px;
+}
+
+.side1_navigation {
+    display: flex;
+    justify-content: space-between;
+  padding-left: -1px;
+  padding-right: 2%;
+  
+
+}
+
+.navigation_text {
+
+text-decoration: none;
+color: #333333;
+background-color: #bfc9b2;
+border-radius: 30px;
+border: 0px solid green;
+font-family: 'Times New Roman', Times, serif;
+padding: 10px;
+margin: 20px
+}
+
+.navigation_text:hover {
+    opacity: 0.7;
+}
+
+.logo{
+
+width: 5%;
+padding-left: 5px;
+
+
+}
+/*----NAVIGATION SLUT-----*/
+
+/*----OVER OG UNDER SKRIFTER START-----*/
+.overskrift1_side1{
+    font-family: acier bat;
+    font-size: 60pt;
+    margin-left: 40px;
+    margin-top:20px;
+}
+
+.sideskrift{
+color:#5e6853;
+opacity: 0.7;
+padding-top: 65%;
+padding-left: 49%;
+font-size: 55pt;
+font-family: acier bat;
+transform: rotate(-90deg);
+position:absolute
+ 
+}
+
+.button_button2{
+    margin-top: 15px;
+    font-family: lemon milk;
+    font-size: 12pt;
+    border-width: 15px;
+    background-color: #a8dc82;
+    border-color: #a8dc82;
+    border-radius: 16px;
+    line-height: 1.9;
+
+}
+
+.button_button1 {
+    font-family: avenir light;
+    font-size: 12pt;
+    background-color: #eae5d5;
+    border-color: #faf6db;
+    border-radius: 30px;
+    line-height: 1.9;
+    
+}
+
+
+.overskrift2_side1{
+    font-family: acier bat;
+    font-size: 45pt;
+   padding-left: 5%;
+   padding-top: 55%;
+   position:absolute
+    
+ }
+ .underoverskrift3_side1{
+    font-family: acier bat;
+    font-size: 20pt;
+   padding-left: 5%;
+   padding-top: 55%;
+   position:absolute
+ }
+ .underoverskrift4_side1{
+    font-family: avenir light;
+    font-size: 12pt;
+   padding-left: 5%;
+   padding-top: 63%;
+   position:absolute
+ }
+    
+.underoverskrift2_side1 {
+    font-family: avenir light;
+    line-height: 1.9;
+    font-size: 16px;
+    margin-right: 400px;
+    padding-left: 35%;
+    margin-top: 80px;
+    position:absolute
+}
+
+/*----OVER OG UNDER SKRIFTER SLUT -----*/
+
+/*----BILLEDE 1 START-----*/
+.billede1{
+    width: 460px;
+    margin-left: 30px;
+    margin-top: px;
+    margin-bottom: 1px;
+    border-radius: 8px;
+    float: left;
+    text-align: right;
+
+}
+/*----BILLEDE 1 SLUT-----*/
+/*----BILLEDE 2 START-----*/
+.billede2{
+    width: 500px;
+    margin-left: 405px;
+    margin-top: 700px;
+    border-radius: 8px;
+    float: left;
+}
+
+/*----sektion 1 side 1 start-----*/
+.section_side1{
+   margin-bottom: 700px;
+   text-align: right;
+   margin-right: 60px;
+   margin: 0px;
+}
+/*----baggrundsbillede start-----*/
+.body1{
+    background-image: url(baggrund1.png);
+    background-repeat: no-repeat;
+}
+
+/*----baggrundsbillede slut-----*/
